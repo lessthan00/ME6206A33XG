@@ -1,5 +1,9 @@
 # ME6206A33XG  borad change from AMS1117-3V3
-  
+
+<img src="./ME6206A33XG_F.png" style="display:block; margin:auto; width:50%;" />  
+<img src="./ME6206A33XG_B.png" style="display:block; margin:auto; width:50%;" />  
+<img src="./ME6206A33XG-Edge_Cuts.svg" style="display:block; margin:auto; width:50%;" />  
+
 [ME6206A33XG](https://www.jlc-smt.com/lcsc/detail?componentCode=C161345)  
 LDO  
 VIN 6V  
